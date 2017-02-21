@@ -21,7 +21,6 @@
 ```bash
 git clone https://github.com/kiruto/flapper
 ```
-
 2. 安装依赖环境
 ```bash
 npm install
