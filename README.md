@@ -1,5 +1,5 @@
 # Flip Flapping!
-<img src="art/cover.jpg" alt="Papika" style="width: 200px;"/>
+<img src="art/cover.jpg" alt="Papika" width="200"/>
 
 使用node环境快速搭建TypeScript应用
 
