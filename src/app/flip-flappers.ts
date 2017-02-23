@@ -4,7 +4,7 @@
 export class FlipFlappers {
     private f = "Flapping!";
 
-    flaping(): string {
+    flapping(): string {
         return this.f;
     }
 }

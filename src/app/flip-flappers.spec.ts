@@ -6,6 +6,6 @@ import {FlipFlappers} from "./flip-flappers";
 describe("First test for a flapper.", () => {
     it("Should say 'Flapping!'.", () => {
         let flapper = new FlipFlappers();
-        expect(flapper.flaping()).toBe("Flapping!");
+        expect(flapper.flapping()).toBe("Flapping!");
     });
 });

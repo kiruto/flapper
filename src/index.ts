@@ -6,6 +6,6 @@ export class AppMain {
     constructor(public flapper: FlipFlappers) {}
 
     flapping() {
-        this.flapper.flaping();
+        this.flapper.flapping();
     }
 }
