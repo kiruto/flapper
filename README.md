@@ -1,6 +1,8 @@
 # Flip Flapping!
 <img src="art/cover.jpg" alt="Papika" width="200"/>
 
+Document: [使用flapper开始TypeScript应用](http://exyui.com/article/5/%E4%BD%BF%E7%94%A8flapper%E5%BC%80%E5%A7%8BTypeScript%E5%BA%94%E7%94%A8)
+
 ## 使用flapper开始TypeScript应用
 
 一个完备的JS应用应该具有合理的工程架构支撑，在微软的[官方文档](https://www.typescriptlang.org/docs/tutorial.html)中只介绍了使用tsc编译源文件的方法，并没有对TypeScript工程搭建有详细的说明。本项目是为此而生，只需要fork或clone项目后，便可搭建完整的开发测试环境。
@@ -50,9 +52,10 @@ flapper具有以下特点：
 ## 单元测试
 1. 在./src目录下的所有**/*.spec.ts文件都被用来测试。本工程下[./src/app/flip-flappers.spec.ts](src/app/flip-flappers.spec.ts)是一个简单的测试实例。
 2. 执行以下命令进行测试
-```bash
-npm test
-```
+
+    ```bash
+    npm test
+    ```
 
 如果没有修改环境变量, 可以看到一个chrome浏览器对脚本进行测试的过程。
 
